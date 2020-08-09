@@ -41,7 +41,7 @@
 :paperclip: SQlite <br/>
 
 
-## Objective :runner: :dart:
+
 
 
 
