@@ -1,9 +1,12 @@
-# NicolasFelippe :iphone:
+# NicolasFelippe 
 
 <p>Atualmente estou realizando um projeto junto ao meu amigo (https://github.com/claudemirAvelino) , utilizando  Angular10 e AdonisJS. Projeto consiste em gerenciar uma Barbearia, contendo o agendamento automatizado. </p>
 
+
 - [x] :rocket: Next Level Week #2 - Participei do ultimo NLW#2 e estou na fase de desenvolvimento dos desafios proposto pela Rocketseat.
 
+
+### Contacts :iphone:
 <p align="left">
   <a target="_blank" href="mailto:nickfelippe18@gmail.com?subject=Hello%20again">
     <img src="https://github.com/NicolasFelippe/NicolasFelippe/blob/master/svg/social/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
