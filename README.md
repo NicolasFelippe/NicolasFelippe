@@ -1,6 +1,6 @@
 # NicolasFelippe :iphone:
 
-<p>Atualmente estou realizando um projeto junto ao meu amigo </p> [Claudemir Avelino](https://github.com/claudemirAvelino) <p> , utilizando  Angular10 e AdonisJS. Projeto consiste em gerenciar uma Barbearia, contendo o agendamento automatizado. </p>
+<p>Atualmente estou realizando um projeto junto ao meu amigo (https://github.com/claudemirAvelino) , utilizando  Angular10 e AdonisJS. Projeto consiste em gerenciar uma Barbearia, contendo o agendamento automatizado. </p>
 
 - [x] :rocket: Next Level Week #2 - Participei do ultimo NLW#2 e estou na fase de desenvolvimento dos desafios proposto pela Rocketseat.
 
@@ -25,7 +25,6 @@
 ## Top Langs and Frameworks :books: :pencil2:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 :paperclip: NodeJS <br/>
