@@ -33,14 +33,13 @@
 
 ## Tools :wrench: :hammer:
 
-
-- [x] Intellij IDE
-- [x] Visual Studio Code
-- [x] GitHub
-- [x] Android Studio
-- [x] AWS Cloud Computing
-- [x] MySQL Workbench
-- [x] Trello
+: Intellij IDE
+: Visual Studio Code
+: GitHub
+: Android Studio
+: AWS Cloud Computing
+: MySQL Workbench
+: Trello
 
 
 
