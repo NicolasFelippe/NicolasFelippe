@@ -33,7 +33,7 @@
 
 ## Tools :wrench: :hammer:
 
-:pushpin: Intellij IDE ;
+:pushpin: Intellij IDE ; <br> </br>
 :pushpin: Visual Studio Code;
 :pushpin: GitHub ;
 :pushpin: Android Studio ;
