@@ -14,9 +14,9 @@
 </p>
 
 # Objective
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NicolasFelippe)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Objetivo# Objetivo
+# Objective
 
-# Ferramentas utilizadas
+# Tools :wrench: :hammer:
