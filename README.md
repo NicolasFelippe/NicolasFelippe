@@ -13,4 +13,9 @@
   </a>  
 </p>
 
-# Objetivo
+# Objective
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NicolasFelippe)](https://github.com/anuraghazra/github-readme-stats)
+
+# Objetivo# Objetivo
+
+# Ferramentas utilizadas
