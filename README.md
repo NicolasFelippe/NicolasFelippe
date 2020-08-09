@@ -1,4 +1,7 @@
 # NicolasFelippe
+
+
+
 ## Contacts :iphone:
 <p align="left">
   <a target="_blank" href="mailto:nickfelippe18@gmail.com?subject=Hello%20again">
@@ -13,10 +16,28 @@
   </a>  
 </p>
 
-# Top Langs :books: :pencil2:
+
+
+
+## Top Langs :books: :pencil2:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Objective :runner: :dart:
 
-# Tools :wrench: :hammer:
+
+
+## Objective :runner: :dart:
+
+
+
+
+## Tools :wrench: :hammer:
+
+:pushpin: Intellij IDE ;
+:pushpin: Visual Studio Code;
+:pushpin: GitHub ;
+:pushpin: Android Studio ;
+:pushpin: AWS Cloud Computing ;
+:pushpin: MySQL Workbench ;
+:pushpin: Trello ;
+
