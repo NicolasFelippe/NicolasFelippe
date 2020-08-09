@@ -14,7 +14,7 @@
 </p>
 
 # Objective
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NicolasFelippe)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NicolasFelippe)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 # Objetivo# Objetivo
 
