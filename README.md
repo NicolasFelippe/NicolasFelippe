@@ -23,7 +23,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+:paperclip: NodeJS <br/>
+:paperclip: React <br/>
+:paperclip: React Native <br/>
+:paperclip: AdonisJS <br/>
+:paperclip: Angular 2+ <br/>
+:paperclip: NPM <br/>
+:paperclip: YARN <br/>
+:paperclip: MySQL <br/>
+:paperclip: SQlite <br/>
 
 
 ## Objective :runner: :dart:
