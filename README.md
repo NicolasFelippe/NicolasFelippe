@@ -13,10 +13,10 @@
   </a>  
 </p>
 
-# Objective
+# Top Langs :books: :pencil2:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Objective
+# Objective :runner: :dart:
 
 # Tools :wrench: :hammer:
