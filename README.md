@@ -34,13 +34,13 @@
 ## Tools :wrench: :hammer:
 
 
-- [x] :pushpin: Intellij IDE
-- [x] :pushpin: Visual Studio Code
-- [x] :pushpin: GitHub
-- [x] :pushpin: Android Studio
-- [x] :pushpin: AWS Cloud Computing
-- [x] :pushpin: MySQL Workbench
-- [x] :pushpin: Trello
+- [x] Intellij IDE
+- [x] Visual Studio Code
+- [x] GitHub
+- [x] Android Studio
+- [x] AWS Cloud Computing
+- [x] MySQL Workbench
+- [x] Trello
 
 
 
