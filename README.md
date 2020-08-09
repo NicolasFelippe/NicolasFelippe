@@ -34,7 +34,7 @@
 ## Tools :wrench: :hammer:
 
 
-  <li>:pushpin: Intellij IDE</li>
+  <ul>:pushpin: Intellij IDE</ul>
   <li>:pushpin: Visual Studio Code</li>
   <li>:pushpin: GitHub</li>
    <li>:pushpin: Android Studio</li>
