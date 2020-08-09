@@ -33,7 +33,7 @@
 
 ## Tools :wrench: :hammer:
 
-<ul style="list-style: none;">
+
   <li>:pushpin: Intellij IDE</li>
   <li>:pushpin: Visual Studio Code</li>
   <li>:pushpin: GitHub</li>
@@ -41,7 +41,7 @@
    <li>:pushpin: AWS Cloud Computing</li>
    <li>:pushpin: MySQL Workbench</li>
    <li>:pushpin: Trello</li>
-</ul>
+
 
 
 
