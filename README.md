@@ -33,7 +33,7 @@
 
 ## Tools :wrench: :hammer:
 
-<ul>
+<ul style="list-style: none;">
   <li>:pushpin: Intellij IDE</li>
   <li>:pushpin: Visual Studio Code</li>
   <li>:pushpin: GitHub</li>
