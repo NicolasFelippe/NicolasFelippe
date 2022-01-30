@@ -28,17 +28,20 @@
 
 
 :paperclip: NodeJS <br/>
-:paperclip: React <br/>
-:paperclip: React Native <br/>
+:paperclip: Java <br/>
+:paperclip: Spring Boot <br/>
+:paperclip: Docker <br/>
+:paperclip: Spring Cloud <br/>
+:paperclip: C# <br/>
+:paperclip: Vue 2 <br/>
+:paperclip: React JS/TS<br/>
 :paperclip: AdonisJS <br/>
 :paperclip: Angular 2+ <br/>
 :paperclip: NPM <br/>
 :paperclip: YARN <br/>
 :paperclip: MySQL <br/>
 :paperclip: SQlite <br/>
-
-
-
+:paperclip: MongoDB <br/>
 
 
 
