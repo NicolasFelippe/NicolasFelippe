@@ -25,37 +25,3 @@
 ## Top Langs and Frameworks :books: :pencil2:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFelippe&layout=compact&langs_count=20&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-:paperclip: NodeJS <br/>
-:paperclip: Java <br/>
-:paperclip: Spring Boot <br/>
-:paperclip: Docker <br/>
-:paperclip: Spring Cloud <br/>
-:paperclip: C# <br/>
-:paperclip: Vue 2 <br/>
-:paperclip: React JS/TS<br/>
-:paperclip: AdonisJS <br/>
-:paperclip: Angular 2+ <br/>
-:paperclip: NPM <br/>
-:paperclip: YARN <br/>
-:paperclip: MySQL <br/>
-:paperclip: SQlite <br/>
-:paperclip: MongoDB <br/>
-
-
-
-
-## Tools :wrench: :hammer:
-
-:pushpin: Intellij IDE <br/>
-:pushpin: Visual Studio Code <br/>
-:pushpin: GitHub <br/>
-:pushpin: Android Studio <br/>
-:pushpin: AWS Cloud Computing <br/>
-:pushpin: MySQL Workbench <br/>
-:pushpin: Trello <br/>
-
-
-
-
